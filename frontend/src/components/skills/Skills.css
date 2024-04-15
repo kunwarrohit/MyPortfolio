@@ -1,0 +1,15 @@
+.skills{
+    width: 100%;
+    height:100vh;
+    background-color: #34353A;
+    overflow-y: hidden;
+}
+.title1{
+    /* border:1px solid #F0BF6C; */
+    margin-left:45%;
+    
+}
+.description{
+    font-size:35px;
+    color:rgba(255, 255, 255, 0.788);
+}
